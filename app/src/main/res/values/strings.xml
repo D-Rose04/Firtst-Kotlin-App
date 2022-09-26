@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gradeInput">Enter your grade</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="devName">David Hernández</string>
+    <string name="enrollment">(2020-9388)</string>
+    <string name="Title">Grade Calculator</string>
+</resources>
